@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+generatedFiles/index.js.map
+package-lock.json
